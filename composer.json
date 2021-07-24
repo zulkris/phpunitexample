@@ -1,0 +1,16 @@
+{
+    "name": "zulkris/phpunitexample",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "files" : ["Utils.php"]
+    },
+    "authors": [
+        {
+            "name": "ZulKris",
+            "email": "2garin.zmej@gmail.com"
+        }
+    ]
+}
