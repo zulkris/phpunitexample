@@ -1,5 +1,4 @@
 <?php
-require_once('../vendor/autoload.php');
 
 namespace tests;
 
@@ -10,7 +9,7 @@ class UtilsTest extends TestCase
 {
     public function testReverse() 
     {
-        $this->assert(reverse('abc'), 'cba');
+        $this->assertEquals(reverse('abc'), 'cba');
     }
 }
 
