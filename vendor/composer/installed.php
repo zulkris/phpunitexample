@@ -1,12 +1,12 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => 'dev-master',
-    'version' => 'dev-master',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => '05266a6a8bd8d0bec837c115e5e7b5d757ca327d',
+    'reference' => '3435618e2b038ecbc35cdd6b7ea6adfc6c8519cc',
     'name' => 'zulkris/phpunitexample',
   ),
   'versions' => 
@@ -323,12 +323,12 @@
     ),
     'zulkris/phpunitexample' => 
     array (
-      'pretty_version' => 'dev-master',
-      'version' => 'dev-master',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => '05266a6a8bd8d0bec837c115e5e7b5d757ca327d',
+      'reference' => '3435618e2b038ecbc35cdd6b7ea6adfc6c8519cc',
     ),
   ),
 );
