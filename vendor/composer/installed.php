@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '3435618e2b038ecbc35cdd6b7ea6adfc6c8519cc',
+    'reference' => '5a0109afa058047c4e0488a7d7d76c5e6a22f18d',
     'name' => 'zulkris/phpunitexample',
   ),
   'versions' => 
@@ -328,7 +328,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '3435618e2b038ecbc35cdd6b7ea6adfc6c8519cc',
+      'reference' => '5a0109afa058047c4e0488a7d7d76c5e6a22f18d',
     ),
   ),
 );

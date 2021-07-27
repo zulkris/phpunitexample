@@ -1,5 +1,7 @@
 {
     "name": "zulkris/phpunitexample",
+    "description" : "test github actions",
+    "license" : "proprietary",
     "type": "project",
     "require-dev": {
         "phpunit/phpunit": "^9.5",
